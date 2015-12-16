@@ -104,8 +104,8 @@ $(function(){
 	if(temp < 5){//> 15){ //
 		if(con == 'Rain'){ 
 		var markup = '<li>'+
-			'<img src="assets/img/icons/wintercoat+hat+umbrella.jpg" />'+
-			//'<img src="assets/img/icons/'+ icon +'.png" />'+
+			//'<img src="assets/img/icons/wintercoat+hat+umbrella.jpg" />'+
+			'<img src="assets/img/icons/'+ icon +'.png" />'+
 			' <p class="day">'+ day +'</p> <p class="cond">'+ condition +
 			'</p></li>';
 			}
